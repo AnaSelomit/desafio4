@@ -1,0 +1,36 @@
+*{
+    @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&family=Roboto:wght@300;500&display=swap');
+    margin:0;
+    
+}
+
+.navbar {
+    height: 80px;
+    font-size: 1.8rem;
+    font-weight: 500;
+    
+}
+
+h5 {
+    
+    font-weight: 300;
+}
+
+.icon, p {
+    color: #707070;
+    font-size: 1.3rem;
+}
+
+.card {
+    border-radius: 0.5rem;
+}
+
+.card-img-top {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+}
+
+.logoBlack {
+    height: 40px;
+}
+
